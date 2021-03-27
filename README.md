@@ -14,7 +14,7 @@ Google画像検索から画像をスクレイピングし，それを使ってCN
 python download_image_fast.py
 ```
 
-### download_image_fast.py
+### download_image_high-quality.py
 各画像を一度クリックしてからダウンロードするので，遅いですが画質はより良いです．
 
 ```
